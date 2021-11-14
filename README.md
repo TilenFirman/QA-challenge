@@ -179,19 +179,5 @@ No activity. Console / Network log are idle. | Profile updates & changes saved. 
 | SCREENSHOT |   |
 | ![ScreenShot](https://lh3.googleusercontent.com/BQJCEp36AHyL_MQo9HSPOSln4fhmEN5iYtXkBiOvByl5fLMiFhiGJmZ80Rao75B2_ASFKNECEW8Bqbv4qd5fL5IefQ__rn5j6SCZplB9M5fARWFtDOae9ytgX5MJ7Pvl8vGi6z4V_S6fJRxhPQ7VpOHVu5JF7yRC0C43ZaYGhWtz75BiHHXZSVAJzNrHDb_YeMcuax9b-TcLiI_6hzNHTPk7PYbJBDN0uxUmgzR2dolMPhlQlOb_kJC1ehlUkc86eOYKDDkzdjrcG3XXAyDENbaPSjRAS2kvT19hp5NuQVXkhnFCBODtQLqXsfZVHnOlGZu0dlQfscIUQGZnVVABWg_0uxawIhBb1UjYufBtKfj-QWmqwD-tRw2RG-MrEc3LOOOhJy9C_CyO3MPy6jwSpd_-kxNed3HXu2u2ykSFjMXK-cjegLRMjI0UL10FkafQyZiiVwVr9c7F8T3YGxvsB_OMSGkCWl2Qor5H07Jd7OkL_p-L3MLhnQ_B7M9s4IR0vkzW78bew0hFFMPx6m9MnKopWuQfYDip6I6z85BdJJlJJHyKY6qZ3URgrh22D2qmDITCU_fUfyZc6c-6IUz5E6UZOvmtUTr79wjTycTfjrBQSwLWmtoR9Dc7EJzmRmKveB6ZlCwJp1kqo2NoUzfI2Q_ZZrxT0UHwu7ebpJ7N7GwDkumUKluTugffdQREre8bmI_QtTRpzWhv6W7FWy-YBvA=w917-h516-no?authuser=0) |  |
 
-<br />
-12# BUG<br />
-
-| QUALITY ASSURANCE  | BUG REPORT |
-| ------------- | ------------- |
-| SEVERITY  | CRITICAL|
-| TITLE  |   FRACTIONS BUY ERROR INCORRECT BALANCE |
-| ACTION |    |
-| Users wants to buy NFT. While Buyout is possible with MAX buying Fractions is not because for some reason it shows that users balance is 0 ETH. https://qa.fractional.art/vaults/0xbF241188224A765cCc453339aa1484c64B79B2bf  |  |
-| RESULT: | EXPECTED RESULT: |
-| Insufficient asset liquidity. | Buys a piece of available NFT. |
-| ERROR : User cannot buy NFT per Fraction. Even if they have money in wallet the amount owned is shown as 0ETH. | |
-| SCREENSHOT |   |
-| ![ScreenShot](https://lh3.googleusercontent.com/BQJCEp36AHyL_MQo9HSPOSln4fhmEN5iYtXkBiOvByl5fLMiFhiGJmZ80Rao75B2_ASFKNECEW8Bqbv4qd5fL5IefQ__rn5j6SCZplB9M5fARWFtDOae9ytgX5MJ7Pvl8vGi6z4V_S6fJRxhPQ7VpOHVu5JF7yRC0C43ZaYGhWtz75BiHHXZSVAJzNrHDb_YeMcuax9b-TcLiI_6hzNHTPk7PYbJBDN0uxUmgzR2dolMPhlQlOb_kJC1ehlUkc86eOYKDDkzdjrcG3XXAyDENbaPSjRAS2kvT19hp5NuQVXkhnFCBODtQLqXsfZVHnOlGZu0dlQfscIUQGZnVVABWg_0uxawIhBb1UjYufBtKfj-QWmqwD-tRw2RG-MrEc3LOOOhJy9C_CyO3MPy6jwSpd_-kxNed3HXu2u2ykSFjMXK-cjegLRMjI0UL10FkafQyZiiVwVr9c7F8T3YGxvsB_OMSGkCWl2Qor5H07Jd7OkL_p-L3MLhnQ_B7M9s4IR0vkzW78bew0hFFMPx6m9MnKopWuQfYDip6I6z85BdJJlJJHyKY6qZ3URgrh22D2qmDITCU_fUfyZc6c-6IUz5E6UZOvmtUTr79wjTycTfjrBQSwLWmtoR9Dc7EJzmRmKveB6ZlCwJp1kqo2NoUzfI2Q_ZZrxT0UHwu7ebpJ7N7GwDkumUKluTugffdQREre8bmI_QtTRpzWhv6W7FWy-YBvA=w917-h516-no?authuser=0) |  |
 
 
