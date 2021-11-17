@@ -1,0 +1,6 @@
+{
+  "chromeWebSecurity": true,
+  "viewportWidth": 1500,
+  "viewportHeight": 1000,
+  "baseUrl": "https://www.todobackend.com/client/index.html?https://todo-backend-django.herokuapp.com/"
+}
